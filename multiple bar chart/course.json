@@ -1,0 +1,62 @@
+{
+    "name": "flare",
+    "children": [
+     {
+      "name": "Machine Learning",
+      "children": [
+        {"name": "Question", "size": 10},
+        {"name": "Response", "size": 40},
+        {"name": "Comment", "size": 57}
+      ]
+     },
+     {
+      "name": "Data Science",
+      "children": [
+       {"name": "Question", "size": 28},
+       {"name": "Response", "size": 48},
+       {"name": "Comment", "size": 45}
+      ]
+     },
+     {
+      "name": "Databases",
+      "children": [
+       
+       {"name": "Question", "size": 78},
+       {"name": "Response", "size": 10},
+       {"name": "Comment", "size": 0}
+      ]
+     },
+     {
+      "name": "Maths",
+      "children": [
+       {"name": "Question", "size": 10},
+       {"name": "Response", "size": 46},
+       {"name": "Comment", "size": 89}
+      ]
+     },
+     {
+      "name": "Geography",
+      "children": [
+       {"name": "Question", "size": 52},
+       {"name": "Response", "size": 46},
+       {"name": "Comment", "size": 7}
+      ]
+     },
+     {
+      "name": "IOT",
+      "children": [
+       {"name": "Question", "size": 41},
+       {"name": "Response", "size": 26},
+       {"name": "Comment", "size": 32}
+      ]
+     },
+     {
+      "name": "Aritificial Intelligence",
+      "children": [
+       {"name": "Question", "size": 63},
+       {"name": "Response", "size": 2},
+       {"name": "Comment", "size": 34}
+      ]
+     }
+    ]
+   }

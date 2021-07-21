@@ -1,0 +1,71 @@
+[
+    {
+        "categorie": "Artificial Intelligence", 
+        "values": [
+            {
+                "value": 0, 
+                "rate": "Question"
+            }, 
+            {
+                "value": 4, 
+                "rate": "Response"
+            }, 
+            {
+                "value": 12, 
+                "rate": "Comment"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Machine Learning", 
+        "values": [
+            {
+                "value": 1, 
+                "rate": "Question"
+            }, 
+            {
+                "value": 21, 
+                "rate": "Response"
+            }, 
+            {
+                "value": 13, 
+                "rate": "Comment"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Information Retrieval", 
+        "values": [
+            {
+                "value": 12, 
+                "rate": "Question"
+            }, 
+            {
+                "value": 7, 
+                "rate": "Response"
+            }, 
+            {
+                "value": 18, 
+                "rate": "Comment"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Data Science", 
+        "values": [
+            {
+                "value": 6, 
+                "rate": "Question"
+            }, 
+            {
+                "value": 15, 
+                "rate": "Response"
+            }, 
+            {
+                "value": 9, 
+                "rate": "Comment"
+            }
+        ]
+    }
+    
+]

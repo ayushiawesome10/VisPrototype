@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" charset="utf-8"></script>
+<script src="https://d3js.org/d3.v2.min.js"></script>
+
+<title>Drill down bar chart</title>
+
+<style type="text/css">
+    #chart text {
+        fill: black;
+        font: 15px sans-serif;
+        text-anchor: middle;
+    }
+
+    .axis text {
+        font: 10px sans-serif;
+    }
+
+    .axis path, .axis line {
+        fill: none;
+        /*stroke: #fff;*/
+        shape-rendering: crispEdges;
+    }
+
+    body {
+        /*background: #1a1a1a;*/
+        color: white;
+        padding: 10px;
+    }
+
+    path {
+        stroke: black;
+        stroke-width: 2;
+        fill: none;
+    }
+
+    
+</style>
+
+<body>
+    <p style="color :red; font-size: 35px; text-align: center;">Posts count in each category</p>
+    <div id="chart" style="height:700px;width:800px">
+        <div class="innerCont" style="top:100px; left: 400px; height:90% ; Width:100% ;position: relative;"></div>
+    </div>
+
+</body>
+
+<script type="text/javascript" src = "index.js"></script>
+
+</html>
